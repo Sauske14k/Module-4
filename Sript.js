@@ -9,7 +9,7 @@
         var names = ["Yaakov", "Paul", "Frank", "Larry", "Paula", "Laura",];
         for (var i = 0; i < names.length; i++)
         console.log (Greetings + names[i]);
-        var n = names.charCodeAt(0);
+        
     }
     window.Hellogreeter = Hellogreeter;
 })(window);
